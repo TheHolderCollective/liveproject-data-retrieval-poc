@@ -1,2 +1,3 @@
 # livproject-data-retrieval-poc
-My repository for liveProject: Build a Data Retrieval PoC 
+
+This repository contains the code written for the live project: Build a Data Retrieval PoC 
