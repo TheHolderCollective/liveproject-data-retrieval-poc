@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-data-retrieval-poc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF459908-0BEC-47AA-80C2-B63DFAD8F5ED}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-data-retrieval-poc\\gtctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF459908-0BEC-47AA-80C2-B63DFAD8F5ED}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF459908-0BEC-47AA-80C2-B63DFAD8F5ED}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-data-retrieval-poc\\gtctool\\services\\federalregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF459908-0BEC-47AA-80C2-B63DFAD8F5ED}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\services\\federalregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF459908-0BEC-47AA-80C2-B63DFAD8F5ED}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-data-retrieval-poc\\gtctool\\models\\federalregister\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF459908-0BEC-47AA-80C2-B63DFAD8F5ED}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\models\\federalregister\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-data-retrieval-poc\\GtcTool\\Program.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Program.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-data-retrieval-poc\\GtcTool\\Program.cs",
+              "RelativeToolTip": "GtcTool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:03:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FederalRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-data-retrieval-poc\\GtcTool\\Services\\FederalRegisterService.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Services\\FederalRegisterService.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-data-retrieval-poc\\GtcTool\\Services\\FederalRegisterService.cs",
+              "RelativeToolTip": "GtcTool\\Services\\FederalRegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:00:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-data-retrieval-poc\\GtcTool\\Models\\FederalRegister\\Document.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Models\\FederalRegister\\Document.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-data-retrieval-poc\\GtcTool\\Models\\FederalRegister\\Document.cs",
+              "RelativeToolTip": "GtcTool\\Models\\FederalRegister\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:53:58.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
