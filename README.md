@@ -1,4 +1,4 @@
-# livproject-data-retrieval-poc
+# liveproject-data-retrieval-poc
 
 This repository contains the code for the  Manning live project: Build a Data Retrieval PoC 
 
